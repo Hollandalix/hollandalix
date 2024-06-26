@@ -34,8 +34,8 @@
 
 <h3 align="left">📝 Latest Blog Posts:</h3>
 <ul>
-  <li><a href="https://medium.com/@yildirimfurkanburak">Profile Title</a></li>
-  <li><a href="https://dev.to/hollandalix">Profile Title</a></li>
+  <li><a href="https://medium.com/@yildirimfurkanburak">Medium Profile</a></li>
+  <li><a href="https://dev.to/hollandalix">Dev.to Profile</a></li>
 </ul>
 
 <h3 align="left">📈 GitHub Stats:</h3>
