@@ -34,8 +34,8 @@
 
 <h3 align="left">📝 Latest Blog Posts:</h3>
 <ul>
-  <li><a href="https://medium.com/@yourmediumhandle/post-title">Post Title</a></li>
-  <li><a href="https://dev.to/yourdevtohandle/post-title">Post Title</a></li>
+  <li><a href="https://medium.com/@yildirimfurkanburak">Profile Title</a></li>
+  <li><a href="https://dev.to/hollandalix">Profile Title</a></li>
 </ul>
 
 <h3 align="left">📈 GitHub Stats:</h3>
@@ -43,11 +43,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hollandalix&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<h3 align="left">📊 Top Languages:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hollandalix&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ---
 
-<p align="center">Made with ❤️ by Your Name</p>
+<p align="center">Made with ❤️ Hollandalix</p>
