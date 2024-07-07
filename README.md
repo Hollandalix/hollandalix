@@ -1,5 +1,5 @@
 <h1 align="center">⚡ Hollandalix</h1>
-<h3 align="center">Master Developer For Discord</h3>
+
 
 <p align="center">
   <a href="https://discord.gg/0007">
